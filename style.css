@@ -1,0 +1,26 @@
+.navbar {
+    background-color: rgb(21, 21, 21);
+
+}
+
+.navbar a {
+    color: aliceblue;
+}
+
+.banner {
+    width: 100%;
+}
+
+.conteudo {
+    max-width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.cards {
+    max-width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
